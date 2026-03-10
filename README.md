@@ -182,3 +182,10 @@ Novos alertas `CRITICAL` disparam um beep via Web Audio API. A chamada está env
 - [x] Indicador de status de conexão SSE
 - [x] SQLite com dados pré-populados
 - [x] Testes unitários (Jest + RTL)
+
+---
+
+## Vídeo Explicativo
+
+https://github.com/user-attachments/assets/39556b9d-c443-4779-b7bd-aa459de5465b
+
